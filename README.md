@@ -6,8 +6,8 @@
 
 <!-- latest-download -->
 <p align="center">
-  <b>Latest: v1.3.3</b> for WarhammerSurvivors.exe v2.1.4 (GOG) Â· <a href="https://github.com/matcarfer/warhammer-survivors-trainer/releases/download/v1.3.3/WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe"><b>â¬‡ WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe</b></a><br>
-  <sub>SHA-256 <code>CDDD8B3EB37533B2EC7775524FC4D9477A1DC6C5D9BF66D80BFD76500842A6DF</code> Â· <a href="https://www.virustotal.com/gui/file/cddd8b3eb37533b2ec7775524fc4d9477a1dc6c5d9bf66d80bfd76500842a6df">VirusTotal report</a></sub>
+  <b>Latest: v1.3.3</b> for WarhammerSurvivors.exe v2.1.4 (GOG) · <a href="https://github.com/matcarfer/warhammer-survivors-trainer/releases/download/v1.3.3/WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe"><b>⬇ WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe</b></a><br>
+  <sub>SHA-256 <code>CDDD8B3EB37533B2EC7775524FC4D9477A1DC6C5D9BF66D80BFD76500842A6DF</code> · <a href="https://www.virustotal.com/gui/file/cddd8b3eb37533b2ec7775524fc4d9477a1dc6c5d9bf66d80bfd76500842a6df">VirusTotal report</a></sub>
 </p>
 <!-- /latest-download -->
 
