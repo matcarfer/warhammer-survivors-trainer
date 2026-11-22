@@ -14,6 +14,8 @@
   &nbsp;·&nbsp;
   <a href="https://ko-fi.com/matcarfer"><b>☕ Tip on Ko-fi</b></a>
   &nbsp;·&nbsp;
+  <a href="https://cafecito.app/matcarfer"><b>☕ Cafecito (AR)</b></a>
+  &nbsp;·&nbsp;
   <a href="https://www.patreon.com/matcarfer"><b>❤ Support on Patreon</b></a>
 </p>
 
@@ -69,7 +71,7 @@ Only download it from this page and compare the file's SHA-256 with the one list
 the release notes:
 
 ```powershell
-Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.1.exe -Algorithm SHA256
+Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.2.exe -Algorithm SHA256
 ```
 
 ## Safety
@@ -96,7 +98,7 @@ Hacé una copia de tu partida guardada antes de usarlo.
 
 ## Support
 
-This trainer is **free** and made in my spare time. If it saved your run, a one-time tip on **[Ko-fi](https://ko-fi.com/matcarfer)** or monthly support on
+This trainer is **free** and made in my spare time. If it saved your run, a one-time tip on **[Ko-fi](https://ko-fi.com/matcarfer)** or **[Cafecito](https://cafecito.app/matcarfer)** (Argentina) or monthly support on
 **[Patreon](https://www.patreon.com/matcarfer)** helps me keep it updated for new game
 versions. Thank you! — *matcarfer*
 
