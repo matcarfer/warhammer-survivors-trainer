@@ -6,9 +6,9 @@
 
 <!-- latest-download -->
 <p align="center">
-  <b>Latest · Última versión: v1.3.3</b> — WarhammerSurvivors.exe v2.1.4 (GOG)<br>
-  <a href="https://github.com/matcarfer/warhammer-survivors-trainer/releases/download/v1.3.3/WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe"><b>⬇ Download · Descargar WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe</b></a><br>
-  <sub>SHA-256 <code>CDDD8B3EB37533B2EC7775524FC4D9477A1DC6C5D9BF66D80BFD76500842A6DF</code> · <a href="https://www.virustotal.com/gui/file/cddd8b3eb37533b2ec7775524fc4d9477a1dc6c5d9bf66d80bfd76500842a6df">VirusTotal report · Informe de VirusTotal</a></sub>
+  <b>Latest · Última versión: v1.3.4</b> — WarhammerSurvivors.exe v2.1.4 (GOG)<br>
+  <a href="https://github.com/matcarfer/warhammer-survivors-trainer/releases/download/v1.3.4/WarhammerSurvivors-v2.1.4-Trainer-v1.3.4.exe"><b>⬇ Download · Descargar WarhammerSurvivors-v2.1.4-Trainer-v1.3.4.exe</b></a><br>
+  <sub>SHA-256 <code>8801D1E47F91ED39E3B7CFEB2307460E877B27F53D773B9D7054901FE80B2064</code> · <a href="https://www.virustotal.com/gui/file/8801d1e47f91ed39e3b7cfeb2307460e877b27f53d773b9d7054901fe80b2064">VirusTotal report · Informe de VirusTotal</a></sub>
 </p>
 <!-- /latest-download -->
 
@@ -84,7 +84,7 @@ different, the affected cheats are shown as unavailable instead of risking a cra
 - Each version lists its **SHA-256** and a **VirusTotal report** (top of this page and the
   release notes). Check the hash:
   ```powershell
-  Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe -Algorithm SHA256
+  Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.4.exe -Algorithm SHA256
   ```
 - Not code-signed: if Windows SmartScreen appears, click **More info → Run anyway**. Some
   antivirus programs flag every game trainer because it changes another program's memory.
@@ -163,7 +163,7 @@ otra, los trucos afectados aparecen como no disponibles en vez de arriesgar un c
 - Cada versión indica su **SHA-256** y un **informe de VirusTotal** (arriba de esta página
   y en las notas de la versión). Verificá el hash:
   ```powershell
-  Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe -Algorithm SHA256
+  Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.4.exe -Algorithm SHA256
   ```
 - No está firmado digitalmente: si Windows muestra "Windows protegió tu PC", elegí
   **Más información → Ejecutar de todas formas**. Algunos antivirus marcan todos los
