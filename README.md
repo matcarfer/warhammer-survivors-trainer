@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Free trainer for Warhammer Survivors (PC · GOG · 64-bit)</b><br>
-  12 cheats · F1–F12 hotkeys · English & Español · one portable .exe
+  11 cards · F1–F11 hotkeys · English & Español · one portable .exe
 </p>
 
 <p align="center">
@@ -49,14 +49,13 @@ different, the affected cheats are shown as unavailable instead of risking a cra
 | F8 | **Luck Override** | Sets Luck to 2, 5, 10 or 100 (better drops, chests, evolutions). |
 | F9 | **Free Rerolls & Banishes** | Rerolling and banishing level-up choices costs nothing. |
 | F10 | **Move Speed** | ×1.25 ×1.5 ×2 ×3 run speed. |
-| F11 | **Game Speed** ⚠️ | ×2 ×3 ×4 the whole run (you, enemies, spawns, timer). Experimental. |
-| F12 | **Coin Editor** | Switch on, open *Enhancements* in the main menu once, then set your coins. |
+| F11 | **Coin Editor** | Switch on, open *Enhancements* in the main menu once, then set your coins. |
 
 ## How to use
 
 1. Download `WarhammerSurvivors-v2.1.4-Trainer-v<version>.exe` from **[Releases](https://github.com/matcarfer/warhammer-survivors-trainer/releases/latest)**.
 2. Run it (before or after the game — it connects automatically).
-3. Start a run and flip the switches, or press **F1–F12** while the game window is focused.
+3. Start a run and flip the switches, or press **F1–F11** while the game window is focused.
 4. Close the trainer when you're done: every change is undone and the game is back to normal.
 
 > **Back up your save before using any trainer.**
@@ -70,7 +69,7 @@ Only download it from this page and compare the file's SHA-256 with the one list
 the release notes:
 
 ```powershell
-Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.2.1.exe -Algorithm SHA256
+Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.0.exe -Algorithm SHA256
 ```
 
 ## Safety
@@ -88,7 +87,7 @@ Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.2.1.exe -Algorithm SHA256
 **Trainer gratuito para Warhammer Survivors (PC · GOG · 64 bits, versión v2.1.4).**
 Descargalo desde **[Releases](https://github.com/matcarfer/warhammer-survivors-trainer/releases/latest)**,
 abrilo (antes o después del juego, se conecta solo) y activá los trucos con los
-interruptores o con **F1–F12** con el juego en primer plano. La interfaz está en
+interruptores o con **F1–F11** con el juego en primer plano. La interfaz está en
 inglés y español. Al cerrarlo, el juego vuelve a la normalidad.
 Si Windows muestra "Windows protegió tu PC", elegí **Más información → Ejecutar de todas formas**.
 Hacé una copia de tu partida guardada antes de usarlo.
