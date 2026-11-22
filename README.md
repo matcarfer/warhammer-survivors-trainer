@@ -19,6 +19,8 @@
   <a href="https://www.patreon.com/matcarfer"><b>❤ Support on Patreon</b></a>
 </p>
 
+<p align="center"><sub>📚 All my free apps, utilities and trainers: <a href="https://github.com/matcarfer/library"><b>matcarfer/library</b></a></sub></p>
+
 <p align="center">
   <img src="docs/screenshot.png" width="900" alt="Trainer window">
 </p>
