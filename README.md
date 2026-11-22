@@ -77,8 +77,8 @@ different, the affected cheats are shown as unavailable instead of risking a cra
 The trainer is not code-signed (certificates are expensive for a free tool), so Windows
 SmartScreen may show a warning the first time: click **More info → Run anyway**. Some
 antivirus programs flag every game trainer because they modify another program's memory.
-Only download it from this page and compare the file's SHA-256 with the one listed in
-the release notes:
+Only download it from this page, open the **VirusTotal report** linked above and in the
+release notes, and compare the file's SHA-256 with the one listed there:
 
 ```powershell
 Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe -Algorithm SHA256
@@ -101,8 +101,15 @@ Descargalo desde **[Releases](https://github.com/matcarfer/warhammer-survivors-t
 abrilo (antes o después del juego, se conecta solo) y activá los trucos con los
 interruptores o con **F1–F11** con el juego en primer plano. La interfaz está en
 inglés y español. Al cerrarlo, el juego vuelve a la normalidad.
-Si Windows muestra "Windows protegió tu PC", elegí **Más información → Ejecutar de todas formas**.
-Hacé una copia de tu partida guardada antes de usarlo.
+Cada versión indica su **SHA-256** y un informe de **VirusTotal** (arriba y en las notas
+de la versión). Si Windows muestra "Windows protegió tu PC", elegí **Más información →
+Ejecutar de todas formas**. Hacé una copia de tu partida guardada antes de usarlo.
+
+**Aviso:** herramienta no oficial hecha por un fan, sin relación ni aval de los
+desarrolladores, editores o tienda del juego. Se ofrece tal cual, sin ninguna garantía:
+la usás bajo tu propia responsabilidad. Es gratis; no está permitido redistribuirla —
+compartí el link a esta página. Todas mis herramientas gratis:
+[matcarfer/library](https://github.com/matcarfer/library).
 
 ---
 
