@@ -4,6 +4,14 @@
 
 <h1 align="center">Warhammer Survivors Trainer</h1>
 
+<!-- latest-download -->
+<p align="center">
+  <b>Latest: v1.3.3</b> for WarhammerSurvivors.exe v2.1.4 (GOG) Â· <a href="https://github.com/matcarfer/warhammer-survivors-trainer/releases/download/v1.3.3/WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe"><b>â¬‡ WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe</b></a><br>
+  <sub>SHA-256 <code>CDDD8B3EB37533B2EC7775524FC4D9477A1DC6C5D9BF66D80BFD76500842A6DF</code> Â· <a href="https://www.virustotal.com/gui/file/cddd8b3eb37533b2ec7775524fc4d9477a1dc6c5d9bf66d80bfd76500842a6df">VirusTotal report</a></sub>
+</p>
+<!-- /latest-download -->
+
+
 <p align="center">
   <b>Free trainer for Warhammer Survivors (PC · GOG · 64-bit)</b><br>
   11 cards · F1–F11 hotkeys · English & Español · one portable .exe
@@ -52,7 +60,7 @@ different, the affected cheats are shown as unavailable instead of risking a cra
 | F7 | **XP Boost** | ×2 ×5 ×10 ×50 experience from every gem. |
 | F8 | **Luck Override** | Sets Luck to 2, 5, 10 or 100 (better drops, chests, evolutions). |
 | F9 | **Free Rerolls & Banishes** | Rerolling and banishing level-up choices costs nothing. |
-| F10 | **Move Speed** | ×1.25 ×1.5 ×2 ×3 run speed. |
+| F10 | **Move Speed** | ×1.25 ×1.5 ×2 ×3 ×4 run speed. |
 | F11 | **Coin Editor** | Switch on, open *Enhancements* in the main menu once, then set your coins. |
 
 ## How to use
@@ -73,7 +81,7 @@ Only download it from this page and compare the file's SHA-256 with the one list
 the release notes:
 
 ```powershell
-Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.2.exe -Algorithm SHA256
+Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe -Algorithm SHA256
 ```
 
 ## Safety
