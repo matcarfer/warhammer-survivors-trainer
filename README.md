@@ -69,7 +69,7 @@ Only download it from this page and compare the file's SHA-256 with the one list
 the release notes:
 
 ```powershell
-Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.0.exe -Algorithm SHA256
+Get-FileHash .\WarhammerSurvivors-v2.1.4-Trainer-v1.3.1.exe -Algorithm SHA256
 ```
 
 ## Safety
