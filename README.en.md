@@ -2,7 +2,7 @@
 
 <h1 align="center">Warhammer Survivors Trainer</h1>
 
-<h2 align="center"><a href="https://github.com/matcarfer/warhammer-survivors-trainer/releases/download/v1.3.4/WarhammerSurvivors-v2.1.4-Trainer-v1.3.4.exe">⬇ Download EXE</a></h2>
+<h2 align="center"><a href="https://github.com/matcarfer/warhammer-survivors-trainer/releases/download/v1.3.5/WarhammerSurvivors-v2.1.4-Trainer-v1.3.5.exe">⬇ Download EXE</a></h2>
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshot.png" width="90%" alt="Warhammer Survivors Trainer">
+  <img src="docs/window.png" width="90%" alt="Warhammer Survivors Trainer">
 </p>
 
 **How to use:** open it before or after the game and switch the cheats on, or press F1 to F11. Closing it returns the game to normal. Back up your save first.
@@ -47,4 +47,4 @@ It is not code-signed. Choose **More info → Run anyway**. Some antivirus engin
 
 ---
 
-<sub>Unofficial fan-made tool, not affiliated with the makers of the game. Free, closed source. Do not redistribute: share this link. No warranty. <a href="LICENSE.en">License</a> · <a href="https://www.virustotal.com/gui/file/8801d1e47f91ed39e3b7cfeb2307460e877b27f53d773b9d7054901fe80b2064">VirusTotal</a></sub>
+<sub>Unofficial fan-made tool, not affiliated with the makers of the game. Free, closed source. Do not redistribute: share this link. No warranty. <a href="LICENSE.en">License</a> · <a href="https://www.virustotal.com/gui/file/a5260dfe9b0755f482392ffd0f717edcc72a131090fc49014e5ced19799e4def">VirusTotal</a></sub>
